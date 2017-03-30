@@ -1,6 +1,6 @@
 We'll describe the situation and then our response to it. First, the situation:
 
-h2. The situation
+h1. The situation
 
 Many people feel a need for better conversations, to collaborate to figure out what's true, what's important, what's useful, 
 and how we feel about it.
@@ -21,7 +21,7 @@ observations, feelings, needs, and requests.
 Mind mapping is a tool for showing how thoughts relate to one another. A mind map is structured like a tree, which is a type of 
 graph, like the graph in a social network.
 
-h2. Our response
+h1. Our response
 
 We propose to create a deliberative system based on nonviolent communication (with enhancements) and sharing of content linked to
 content posted by friends and friends-of-friends. Not only that, but each user can rate the content of his or her friends on a 
